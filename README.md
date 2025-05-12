@@ -14,7 +14,7 @@ A 3-tier Grocery Store Management System built using **Python, Flask, MySQL**, a
 
 ## 📸 Screenshot
 
-![Homepage](homepage.jpg)
+![Homepage](Homepage.png)
 
 ---
 
